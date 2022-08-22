@@ -1,0 +1,22 @@
+{
+  "name": "tugasnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syahrullabdillah/tugasnode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syahrullabdillah/tugasnode/issues"
+  },
+  "homepage": "https://github.com/syahrullabdillah/tugasnode#readme",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
